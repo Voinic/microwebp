@@ -1,0 +1,15 @@
+{
+    "urls": [
+      ["uwebp/__init__.py", "github:Voinic/microwebp/uwebp/__init__.py"],
+      ["uwebp/booldecoder.py", "github:Voinic/microwebp/uwebp/booldecoder.py"],
+      ["uwebp/globals.py", "github:Voinic/microwebp/uwebp/globals.py"],
+      ["uwebp/idct.py", "github:Voinic/microwebp/uwebp/idct.py"],
+      ["uwebp/macroblock.py", "github:Voinic/microwebp/uwebp/macroblock.py"],
+      ["uwebp/subblock.py", "github:Voinic/microwebp/uwebp/subblock.py"],
+      ["uwebp/vp8decoder.py", "github:Voinic/microwebp/uwebp/vp8decoder.py"],
+      ["uwebp/webpimage.py", "github:Voinic/microwebp/uwebp/webpimage.py"]
+    ],
+    "deps": [
+    ],
+    "version": "0.1"
+  }
